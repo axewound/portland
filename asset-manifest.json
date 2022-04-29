@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/portland/static/css/main.073c9b0a.css",
-    "main.js": "/portland/static/js/main.441d0f53.js",
-    "static/js/787.28cb0dcd.chunk.js": "/portland/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/portland/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/portland/static/css/main.0db2888e.css",
+    "main.js": "/portland/static/js/main.7abf1576.js",
+    "static/media/user.png": "/portland/static/media/user.96e310a6add3a711174d.png",
+    "static/media/Icon_Portland.svg": "/portland/static/media/Icon_Portland.8428353d66645bae9d6bdacdb922f8ce.svg",
+    "static/media/preloader.svg": "/portland/static/media/preloader.5788b05c9c3040dbc893f9a2d7327e3c.svg",
+    "static/media/Shopping_Cart_Icon.svg": "/portland/static/media/Shopping_Cart_Icon.57e70b921c4251e16d20b1fc9728715a.svg",
     "index.html": "/portland/index.html",
-    "main.073c9b0a.css.map": "/portland/static/css/main.073c9b0a.css.map",
-    "main.441d0f53.js.map": "/portland/static/js/main.441d0f53.js.map",
-    "787.28cb0dcd.chunk.js.map": "/portland/static/js/787.28cb0dcd.chunk.js.map"
+    "static/media/Header_burger.svg": "/portland/static/media/Header_burger.42bf809fcfdbd75dfac5a335fb8f0267.svg",
+    "main.0db2888e.css.map": "/portland/static/css/main.0db2888e.css.map",
+    "main.7abf1576.js.map": "/portland/static/js/main.7abf1576.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.441d0f53.js"
+    "static/css/main.0db2888e.css",
+    "static/js/main.7abf1576.js"
   ]
 }
